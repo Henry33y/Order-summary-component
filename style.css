@@ -18,8 +18,9 @@ body{
     place-items: center;
     height: 100vh;
     background: url("images/pattern-background-desktop.svg");
-    background-color: hsl(225, 100%, 92%);
+    background-color: var(--pale-blue);
     background-position: top;
+    background-repeat: no-repeat,no-repeat;
 
 }
 main{
